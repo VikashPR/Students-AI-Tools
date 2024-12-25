@@ -92,8 +92,6 @@ JetBrains provides professional development tools.
 
 ### Autodesk
 
-![Autodesk Logo](https://upload.wikimedia.org/wikipedia/commons/e/e1/Autodesk_Logo.png)
-
 Autodesk offers software for design and engineering.
 
 **How to Access:**
