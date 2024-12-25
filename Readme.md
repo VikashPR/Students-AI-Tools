@@ -18,3 +18,19 @@ GitHub Copilot is an AI pair programmer that helps you write code faster and wit
 
 **Note:** Free access is available for verified students through the GitHub Student Developer Pack. 
 
+## QuillBot
+
+![QuillBot Logo](https://quillbot.com/images/logo.svg)
+
+QuillBot is an AI-powered writing tool that assists with paraphrasing, grammar checking, and more.
+
+**How to Access:**
+
+1. **Visit QuillBot:**
+   - Go to [QuillBot's website](https://quillbot.com).
+
+2. **Sign Up:**
+   - Click on "Sign Up" and create a free account using your instutional email address.
+
+3. **Instutional Access:**
+   - Using SRMIST email address you can access Quillbot premium for free
