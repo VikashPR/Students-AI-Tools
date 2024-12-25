@@ -90,5 +90,28 @@ JetBrains provides professional development tools.
 
 **Note:** Free access is granted to students for one year and can be renewed annually.
 
+### Autodesk
 
+![Autodesk Logo](https://upload.wikimedia.org/wikipedia/commons/e/e1/Autodesk_Logo.png)
+
+Autodesk offers software for design and engineering.
+
+**How to Access:**
+
+1. **Visit Autodesk Education:**
+   - Go to [Autodesk Education Community](https://www.autodesk.com/education/edu-software/overview).
+
+2. **Create an Account:**
+   - Sign up with your educational email and provide the required information.
+
+3. **Download Software:**
+   - Once verified, you can download and use Autodesk software for educational purposes.
+
+**Note:** Access is provided for educational use only.
+
+**Disclaimer:** The availability of free access and discounts is subject to change. Always refer to the official websites for the most current information.
+
+For a visual walkthrough on obtaining GitHub Copilot for free as a student, you may find the following video helpful:
+
+ 
 
