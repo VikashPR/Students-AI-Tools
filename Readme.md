@@ -52,3 +52,22 @@ Figma is a collaborative interface design tool.
 
 **Note:** The education plan is available for students and educators.
 
+## Notion
+
+![Notion Logo](https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg)
+
+Notion is an all-in-one workspace for notes, tasks, databases, and project management.
+
+**How to Access:**
+
+1. **Visit Notion for Students:**
+   - Go to [Notion for Students](https://www.notion.so/students).
+
+2. **Sign Up with Educational Email:**
+   - Click on "Get started for free" and register using your school email address.
+
+3. **Upgrade to Personal Pro Plan:**
+   - After signing up, your account will automatically be upgraded to the Personal Pro plan at no cost.
+
+**Note:** The free Personal Pro plan is available for students with a valid educational email.
+
