@@ -34,3 +34,25 @@ QuillBot is an AI-powered writing tool that assists with paraphrasing, grammar c
 
 3. **Instutional Access:**
    - Using SRMIST email address you can access Quillbot premium for free
+
+
+## Figma Pro
+
+![Figma Logo](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg)
+
+Figma is a collaborative interface design tool.
+
+**How to Access:**
+
+1. **Visit Figma Education:**
+   - Navigate to [Figma for Education](https://www.figma.com/education/).
+
+2. **Apply for Education Plan:**
+   - Click on "Apply Now" and sign up with your educational email address.
+   - Provide the necessary details to verify your student status.
+
+3. **Access Figma Pro:**
+   - Once approved, you'll have access to Figma's professional features for free.
+
+**Note:** The education plan is available for students and educators.
+
