@@ -77,8 +77,6 @@ Many other software companies offer free or discounted access to their tools for
 
 ### JetBrains
 
-![JetBrains Logo](https://resources.jetbrains.com/storage/products/company/brand/logos/JetBrains_logo.png)
-
 JetBrains provides professional development tools.
 
 **How to Access:**
