@@ -71,3 +71,26 @@ Notion is an all-in-one workspace for notes, tasks, databases, and project manag
 
 **Note:** The free Personal Pro plan is available for students with a valid educational email.
 
+## Additional Tools with Student Offers
+
+Many other software companies offer free or discounted access to their tools for students. Here are a few notable mentions:
+
+### JetBrains
+
+![JetBrains Logo](https://resources.jetbrains.com/storage/products/company/brand/logos/JetBrains_logo.png)
+
+JetBrains provides professional development tools.
+
+**How to Access:**
+
+1. **Visit JetBrains Student Program:**
+   - Navigate to [JetBrains Student License](https://www.jetbrains.com/community/education/#students).
+
+2. **Apply for Free License:**
+   - Click on "Apply Now" and sign up with your educational email.
+   - Follow the verification process to access JetBrains tools for free.
+
+**Note:** Free access is granted to students for one year and can be renewed annually.
+
+
+
