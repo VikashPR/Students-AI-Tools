@@ -108,8 +108,5 @@ Autodesk offers software for design and engineering.
 **Note:** Access is provided for educational use only.
 
 **Disclaimer:** The availability of free access and discounts is subject to change. Always refer to the official websites for the most current information.
-
-For a visual walkthrough on obtaining GitHub Copilot for free as a student, you may find the following video helpful:
-
  
 
