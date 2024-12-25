@@ -20,8 +20,6 @@ GitHub Copilot is an AI pair programmer that helps you write code faster and wit
 
 ## QuillBot
 
-![QuillBot Logo](https://quillbot.com/images/logo.svg)
-
 QuillBot is an AI-powered writing tool that assists with paraphrasing, grammar checking, and more.
 
 **How to Access:**
