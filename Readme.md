@@ -36,8 +36,6 @@ QuillBot is an AI-powered writing tool that assists with paraphrasing, grammar c
 
 ## Figma Pro
 
-![Figma Logo](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg)
-
 Figma is a collaborative interface design tool.
 
 **How to Access:**
